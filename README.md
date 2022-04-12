@@ -3,6 +3,8 @@
 ## Link for the story with Medium 
 The following is the link for the story being published with Medium. 
 
+https://medium.com/@fgarcia2/seattle-airbnb-data-analysis-a6f215ff911a
+
 ## Context 
 Airbnb has been used as a platform for managing rentals for vacations or extended stays, and is based in the San Francisco Bay Area. 
 
